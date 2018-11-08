@@ -7,6 +7,3 @@ export default class Tweet extends Component {
     return <h1>Tweets</h1>
   }
 }
-
-
-export default Tweet
